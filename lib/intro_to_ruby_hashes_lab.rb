@@ -1,9 +1,14 @@
 def new_hash
   # return an empty hash
+  {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  {
+    name: "minnie"
+    species: "cat"
+  }
 end
 
 def pioneer
